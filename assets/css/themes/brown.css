@@ -1,0 +1,36 @@
+﻿/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   COLOR:BROWN
+    ========================================================  */
+
+/* =============================================================
+   PAGE STYLES
+ ============================================================ */
+
+    .head-sec i {
+        color:#9E8A22;
+    }
+.domain-sale-div {
+       background-color: #FF0000;
+        box-shadow: 0 0 0 4px #FF0000, 2px 1px 6px 4px #FF0000;
+        -webkit-box-shadow:0 0 0 4px #FF0000, 2px 1px 6px 4px #FF0000;
+        -moz-box-shadow:0 0 0 4px #FF0000, 2px 1px 6px 4px #FF0000;               
+}
+.sale-price-div {
+     border: 10px solid #9E8A22; 
+     background-color: #fff; 
+             color: #000; 
+
+}
+
+
+
+.right-sec {
+    background-color:#9E8A22;
+}

@@ -1,0 +1,104 @@
+﻿
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height:30px;
+    background-color:#EBEBEB;
+   
+}
+.pad-top {
+    padding-top:50px!important;
+}
+.hr-set {
+    border:1px solid #f00;
+}
+/* =============================================================
+   PAGE STYLES
+ ============================================================ */
+
+.head-sec {
+    padding-top:70px;    
+    text-align:center;
+    padding-bottom:130px;
+}
+
+    .head-sec i {
+        color:#0094ff;
+        font-weight:900;
+        font-size:100px;
+    }
+
+.domain-header {
+    text-transform:uppercase;
+    font-size:40px;
+    font-weight:900;
+}
+
+.domain-sale-div {
+    line-height:60px;
+    margin:0 auto;
+    width: 170px;
+     height: 170px;
+      border: 2px dashed #fff;
+       background-color: #FF0000;
+        border-radius: 50%; 
+        -webkit-border-radius:50%;
+        -moz-border-radius:50%;
+        color: #fff; 
+        box-shadow: 0 0 0 4px #FF0000, 2px 1px 6px 4px #FF0000;
+        -webkit-box-shadow:0 0 0 4px #FF0000, 2px 1px 6px 4px #FF0000;
+        -moz-box-shadow:0 0 0 4px #FF0000, 2px 1px 6px 4px #FF0000;               
+        padding-top:30px;
+        font-size:40px;
+        font-weight:900;
+        font-family: 'Shadows Into Light', cursive;
+        margin-bottom:50px;
+}
+
+.sale-price-div {
+    line-height:60px;
+    margin:0 auto;
+    width: 200px; 
+    height: 200px;
+     border: 10px solid #0094ff; 
+     background-color: #fff; 
+     -webkit-border-radius:50%;
+        -moz-border-radius:50%;
+             border-radius: 50%; 
+             color: #000; 
+             padding-top:30px;
+             font-size:40px;
+             font-weight:900;
+             font-family: 'Shadows Into Light', cursive;
+              margin-bottom:50px;
+
+}
+
+.stats-div {
+
+    padding:10px 10px 10px 10px;
+    text-align:center;
+    color:#fff;
+    display:block;
+}
+
+.right-sec {
+    background-color:#0094ff;
+    border-radius: 0px 0px 10px 10px;
+    -webkit-border-radius:0px 0px 10px 10px;
+        -moz-border-radius:0px 0px 10px 10px;
+}
+
+.copyrights{
+	text-indent:-9999px;
+	height:0;
+	line-height:0;
+	font-size:0;
+	overflow:hidden;
+}
+#footer {
+    text-align:right;
+    padding:20px 50px;
+}
